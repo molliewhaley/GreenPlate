@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C6236397-4AE3-4518-9073-1668EFE14C93"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C9FD247-53F0-4D9E-A058-A65315F25ABA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/ViewModels/RecipeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "RecipeVM"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14D77734-31D8-4E52-888A-B9278E2E6E50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/SearchRecipes/Models /ApiRecipes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "RecipeResults"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06D62F99-F6B0-4321-87E3-335EEBD3941C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/Networking/BarcodeApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85C89D34-01BD-4A6D-8715-59AAB7268731"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/Networking/RestaurantFinderClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getRestaurants(fromUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85C89D34-01BD-4A6D-8715-59AAB7268731 - 880f3594d0493ceb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GreenPlateApp.RestaurantApiClient.getRestaurants() async throws -&gt; GreenPlateApp.Businesses"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/Networking/RestaurantFinderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "916">
+               </Location>
+               <Location
+                  uuid = "85C89D34-01BD-4A6D-8715-59AAB7268731 - 19ee23222cf1f55e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for GreenPlateApp.RestaurantApiClient.getRestaurants() async throws -&gt; GreenPlateApp.Businesses"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/Networking/RestaurantFinderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "85C89D34-01BD-4A6D-8715-59AAB7268731 - 1dbc18aaacacd8c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for GreenPlateApp.RestaurantApiClient.getRestaurants() async throws -&gt; GreenPlateApp.Businesses"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/Networking/RestaurantFinderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "85C89D34-01BD-4A6D-8715-59AAB7268731 - a86489cb91522ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for GreenPlateApp.RestaurantApiClient.getRestaurants() async throws -&gt; GreenPlateApp.Businesses"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/Networking/RestaurantFinderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9C40D05-FEFD-4464-8D7C-C902ADEF4531"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/RestaurantFinder/ViewModels/RestaurantFinderVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "682C0491-547B-4AF1-A6AC-4B861A5EE6FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/Barcode/ViewModels /BarcodeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchFoodFacts(fromBarcode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "543F147F-3CEB-4E85-A91E-9EE2888BB09C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/SearchRecipes/Views/MainView/SearchRecipesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7BD2818-2E60-4297-909D-411E06A256B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/RestaurantFinder/Views/RestaurantDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48C7632F-BCB6-4EC7-93CE-9FDFA0EDCC53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/RestaurantFinder/Models/Reviews.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Reviews"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "48C7632F-BCB6-4EC7-93CE-9FDFA0EDCC53 - 49b6bf7a8b31f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GreenPlateApp.UserDetails.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;GreenPlateApp.UserDetails.CodingKeys&gt;"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/RestaurantFinder/Models/Reviews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "48C7632F-BCB6-4EC7-93CE-9FDFA0EDCC53 - 6f3d7b6c150c3c5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GreenPlateApp.UserDetails.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/RestaurantFinder/Models/Reviews.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F119C93E-0A8E-4F8E-AD83-0006693AB1AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/Networking/ReviewsApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getReviews(restaurantId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31A8B4FF-68C9-4103-AC28-85532FFB2DEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GreenPlateApp/RestaurantFinder/ViewModels/MapVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MapVM"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "31A8B4FF-68C9-4103-AC28-85532FFB2DEC - ad2e0902a55997c9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of GreenPlateApp.MapVM.dragOffset : CoreGraphics.CGFloat"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/RestaurantFinder/ViewModels/MapVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "31A8B4FF-68C9-4103-AC28-85532FFB2DEC - 4df5eca4ff7e151f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GreenPlateApp.MapVM.dragOffset.getter : CoreGraphics.CGFloat"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/RestaurantFinder/ViewModels/MapVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "31A8B4FF-68C9-4103-AC28-85532FFB2DEC - 2d3d49b8bd1d9271"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GreenPlateApp.MapVM.$dragOffset.getter : SwiftUI.GestureState&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/RestaurantFinder/ViewModels/MapVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "31A8B4FF-68C9-4103-AC28-85532FFB2DEC - ccb2252f29357841"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GreenPlateApp.MapVM.init(restaurantRegion: __C.MKCoordinateRegion) -&gt; GreenPlateApp.MapVM"
+                  moduleName = "GreenPlateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/molliewhaley/Desktop/SwiftUI%20Basics/API/GreenPlateApp/GreenPlateApp/RestaurantFinder/ViewModels/MapVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
