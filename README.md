@@ -6,6 +6,11 @@ Looking to explore the world of plant based cuisine? GreenPlate is for all of th
 ### Inspiration 
 This app stems from my own plant-based journey. I’ve been plant based for most of my life and finding yummy (and vegan!) foods has sometimes been difficult. Trying to grocery shop, prepare meals, and find restaurants on vacations has cost me a lot of time on online. I decided to create this app to quickly find vegan accomodations regardless of the scenario, so I could spend more time enjoying and less time Googling. 
 
+### Demos
+<img src="recipes-gif.gif" alt="Example Image" width="185" height="310"/>
+<img src="restaurant-map-gif.gif" alt="Example Image" width="185" height="310"/>
+<img src="barcode-gif.gif" alt="Example Image" width="185" height="310"/>
+
 ### Features 
 #### **Search**
 - Find recipes for every occasion, from quick weekday dinners to holiday meals and more! 
