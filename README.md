@@ -32,6 +32,7 @@ This app requires a few api keys, so some additional work is required. Once you 
 ### Additional Dependencies 
 - [Lottie](https://github.com/airbnb/lottie-ios)
 - [CodeScanner](https://github.com/twostraws/CodeScanner)
+- [OpenFoodFacts Api](https://world.openfoodfacts.org/files/api-documentation.html)
   
 ### Technologies 
 - Core Data
